@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-22T09:47:43 GMT-07:00" name="Default suite" finished-at="2020-07-22T09:47:43 GMT-07:00" duration-ms="116">
+    <groups>
+    </groups>
+    <test started-at="2020-07-22T09:47:43 GMT-07:00" name="Default test" finished-at="2020-07-22T09:47:43 GMT-07:00" duration-ms="116">
+      <class name="BasicTest.PrintHello">
+        <test-method signature="hello()[pri:0, instance:BasicTest.PrintHello@7f1302d6]" started-at="2020-07-22T09:47:43 GMT-07:00" name="hello" finished-at="2020-07-22T09:47:43 GMT-07:00" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+      </class> <!-- BasicTest.PrintHello -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
